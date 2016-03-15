@@ -1,6 +1,7 @@
 [Opt]
 Ver=1.0
 DL=
+Name=BoLHelper
 [LoLVersion]
 agent6.5.0.277.dll=LoL 6.5.0.277
 agent6.4.0.250.dll=LoL 6.4.0.250
